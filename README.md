@@ -1,1 +1,1 @@
-# Sock-price-prediction
+# Stock-price-prediction
